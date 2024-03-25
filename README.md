@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adarsh Shukla from India</h1>
 <h3 align="center">A passionate frontend developer and Ml engineer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952qmk7aaikxx4uyxfu69xx5sp790ck6rxif03ikby8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshshukla8100&label=Profile%20views&color=0e75b6&style=flat" alt="adarshshukla8100" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshshukla8100" alt="adarshshukla8100" /></a> </p>
 
 - 🔭 I’m currently working on **Heart Disease Prediction System**
 
@@ -39,8 +38,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adarshshukla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adarshshukla" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshshukla8100&show_icons=true&locale=en&layout=compact" alt="adarshshukla8100" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshshukla8100&show_icons=true&locale=en" alt="adarshshukla8100" /></p>
 
