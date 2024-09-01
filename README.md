@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adarsh_8100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarsh_8100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/adarsh-shukla-b004b5206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/adarsh-shukla-b004b5206" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adarshshukla8100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/adarsh-shukla-b004b5206" height="30" width="40" /></a>
 <a href="https://kaggle.com/adarshshukla1702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adarshshukla1702" height="30" width="40" /></a>
 <a href="https://instagram.com/adarshshuklaa.8100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarshshuklaa.8100" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/adarsh1702" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adarsh1702" height="30" width="40" /></a>
